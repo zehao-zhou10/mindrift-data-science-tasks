@@ -1,0 +1,27 @@
+You are helping me finalize a synthetic data science task package.
+
+Context:
+- Domain context: fintech
+- Dataset file: fintech_data.csv
+- Stage keys selected: 1_SEMANTIC, 2_SEMANTIC, 3_SEMANTIC
+
+I already have:
+1) Combined prompt instructions
+2) Combined golden code
+
+Please generate:
+1) A polished human-written prompt (markdown)
+2) A human-readable explanation (markdown)
+
+Constraints:
+- Keep deterministic requirements explicit.
+- Keep rounding/precision rules explicit.
+- Do not include Python code in the human-written prompt.
+- Keep wording professional and concise.
+
+Input artifacts:
+- final_task.md
+- PROMPT_SKELETON.md
+- HUMAN_EXPLANATION_SKELETON.md
+
+Return both markdown sections in a copy-paste friendly format.
